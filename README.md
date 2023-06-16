@@ -1,9 +1,9 @@
 # 机器信息
 
-CPU：Intel(R) Xeon(R) Gold 6161 CPU @ 2.20GHz
-核数：1 核 2 线程
-内存：4 GB
-操作系统：Ubuntu 22.04.1 LTS
+* CPU：Intel(R) Xeon(R) Gold 6161 CPU @ 2.20GHz
+* 核数：1 核 2 线程
+* 内存：4 GB
+* 操作系统：Ubuntu 22.04.1 LTS
 
 # 优化结果
 
